@@ -1,0 +1,15 @@
+3 text files containing tab-delimited log2 expression ratios for 3924 genes under 1 of 3 conditions compared to an appropriate control sample.  Files have genes in rows and experiments in columns.  
+
+iron.txt
+cellwall.txt
+translation.txt
+
+
+1 text file with gene IDs in row order matching the 3 expression data files above.
+
+rowNames.txt
+
+
+Expression data is a subset of the data described in the following paper:
+Boshoff et al. (2004)  "The Transcriptional Responses of Mycobacterium tuberculosis to Inhibitors of Metabolism."   Journal of Biological Chemistry.  279(38):40174-40184.
+
